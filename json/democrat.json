@@ -1,0 +1,18 @@
+{
+  "title": "Democrat Metadata",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Democrat Party"
+    },
+    "description": {
+      "type": "string",
+      "description": "This NFT will hold Politicoin to be donated to the Democrat party."
+    },
+    "image": {
+      "type": "string",
+      "description": "https://static.wikia.nocookie.net/the-new-order-the-last-days-of-europe/images/1/10/Rd_logo.png"
+    }
+  }
+}
