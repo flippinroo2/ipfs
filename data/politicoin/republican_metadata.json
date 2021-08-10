@@ -18,9 +18,13 @@
       "value": 50
     },
     {
-      "display_type": "boost_percentage",
       "trait_type": "Test3",
       "value": 99
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Test4",
+      "value": 100
     }
   ]
 }
