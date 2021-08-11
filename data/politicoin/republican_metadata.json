@@ -25,6 +25,11 @@
       "display_type": "boost_percentage",
       "trait_type": "Test4",
       "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1546360800
     }
   ]
 }
